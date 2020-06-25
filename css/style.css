@@ -1,0 +1,100 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: roboto, helvetica;
+	text-align: center;
+
+}
+
+nav{
+  background-color: #292136!important; 
+}
+
+
+body{
+  background-color: #E6E0FF!important; 
+}
+
+button{
+  background-color: #594975!important; 
+  color: white!important;
+}
+
+.BotonFormulario{
+background-color: #594975!important; 
+  color: white!important;
+}
+
+.botones {
+  width: 129px;
+  height: 37px;
+  border-radius: 7px;
+  margin-right: 2px;
+}
+
+
+
+a{
+	color: white!important;
+}
+
+div{
+	padding: 7px;
+
+}
+
+
+#padre{
+  position:relative;
+
+}
+
+#hijo {
+  position: absolute;
+  top: 27%;
+  left: 70%;
+  right: 30%;
+  margin: 0 auto;
+  width: 20px;
+}
+
+#resultados{
+
+  width: 220px;
+  margin-top: -10px;
+  margin-left: -17px;
+  background-color: white;
+  box-shadow: 0px 2px 2px 1px lightgray; 
+  
+}
+
+#listaPaises2{
+  font-size: 27px;
+  font-style: bold; 
+}
+
+.NombresP{
+  margin-bottom: 10px;
+  background-color: white;
+  background-size:  width: 220px;
+  padding: 5PX;
+}
+
+.registro{
+text-align: left;
+}
+
+#ParaReg{
+  font-size: 27px;
+  font-style: bold; 
+}
+
+.login{
+  color: blue!important;
+}
+
+.textoNombre{
+  color: white!important;
+
+}
